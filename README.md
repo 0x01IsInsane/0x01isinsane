@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi
+Im 0x01, I Normally Code If Im Bored.
+My Main Language Is C# and C++
 
-<!--
-**0x01IsInsane/0x01isinsane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Contact
+- [Twitter](https://twitter.com/IceCream_0x01)
+- [Discord](https://discord.com/users/866122157644578846)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="https://lanyard.cnrad.dev/api/866122157644578846" alt="Discord Status">
+
+
+## Languages
+- Programming Languages
+  - C#
+  - C++
+  - TypeScript
